@@ -15,6 +15,7 @@ class Firstclass{
         System.out.println(number*10);
         System.out.println(number*11);
         System.out.println(number*12);
+        sc.close();
 
         
     }
