@@ -1,0 +1,6 @@
+# Compiled class files
+*.class
+
+# Package and build directories
+/bin/
+/target/
