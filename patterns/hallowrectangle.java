@@ -1,3 +1,4 @@
+package patterns;
 import java.util.*;
 class hallowrectangle{
   public static void main(String[] args){
