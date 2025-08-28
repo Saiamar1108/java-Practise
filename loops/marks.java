@@ -16,6 +16,7 @@ class marks {
         System.out.println("Good");
       } else if (marks >= 60) {
         System.out.println("Average");
+        System.out.println("You need to work harder.");
       } else {
         System.out.println("Poor");
       }
